@@ -1,0 +1,93 @@
+body{
+    background-image: linear-gradient(to right, rgb(68, 240, 231), rgb(10, 126, 161));
+    font-family: sans-serif ;
+}
+
+.form{
+    width: 400px;
+    margin: auto;
+    padding-top: 40px;
+}
+
+.card{
+    box-shadow: 1px 1px 5px black;
+    background-color: white;
+    padding: 15px;
+    width: 400px;
+    height: 400px;
+    margin: auto;
+    border-radius: 10px;;
+}
+
+.card2{
+    box-shadow: 1px 1px 5px black;
+    background-color: white;
+    padding: 15px;
+    width: 400px;
+    height: 670px;
+    margin: auto;
+    border-radius: 10px;;
+}
+
+.card3{
+    box-shadow: 1px 1px 5px black;
+    background-color: white;
+    padding: 15px;
+    width: 1000px;
+    height: 1850px;
+    margin: auto;
+    border-radius: 10px;
+}
+
+.card-group{
+    margin-bottom: 10px;
+}
+
+.card-top{
+    text-align: center;
+}
+
+.card-group >label{
+    width: 100%;
+    color: black;
+    display: block;
+}
+
+.card-group > input{
+    border-radius: 5px;
+    outline: 0;
+    width: 100%;
+    height: 25px;
+    padding: 5px;
+}
+
+.card-group > button{
+    background-image: linear-gradient(to right, red, blue);
+    width: 100%;
+    border-radius: 30px;
+    height: 50px;
+    padding: 15px;
+    color: white;
+    outline: 0;
+}
+
+.card-group2 > button{
+    background-image: linear-gradient(to right, rgb(255, 255, 255), rgb(209, 106, 106)227, 227, 238));
+    width:150px;
+    border-radius:30px;
+    height:50px;
+    padding:15px;
+    color:white;
+    outline:0;
+}
+
+.imglogin{
+    border-radius: 50px;
+    width: 100px;
+    box-shadow: 1px 1px 5px black;
+}
+
+.title{
+    color: #dc3545;
+}
+
